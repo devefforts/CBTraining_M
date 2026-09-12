@@ -1,0 +1,2 @@
+# Python standard library only — nothing to pip install.
+# Keep this file so the project matches a normal package submission.

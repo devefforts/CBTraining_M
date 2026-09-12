@@ -1,0 +1,52 @@
+2026-09-12 13:11:14,557 INFO loafly Pipeline start. api_key loaded (length=8)
+2026-09-12 13:11:14,558 INFO loafly Extracted 32 item rows from E:\CB Learning\CBTraining and Assignment\Week2\python_loafly\data\raw_orders.csv
+2026-09-12 13:11:14,558 WARNING loafly Skipping item with missing or bad price: order=5004 item=Chocolate Cake Slice price=''
+2026-09-12 13:11:14,558 WARNING loafly Skipping item with missing or bad price: order=5009 item=Blueberry Muffin price=''
+2026-09-12 13:11:14,558 WARNING loafly Skipping item with missing or bad price: order=5013 item=Cookie Box price=''
+2026-09-12 13:11:14,558 INFO loafly Built 15 orders after skipping bad prices
+2026-09-12 13:11:14,558 INFO loafly Saved order 5001 for Arjun total=297.00 INR (attempt 1)
+2026-09-12 13:11:14,558 INFO loafly Saved order 5002 for Kabir total=513.00 INR (attempt 1)
+2026-09-12 13:11:14,558 INFO loafly Saved order 5003 for Aarav total=666.00 INR (attempt 1)
+2026-09-12 13:11:14,558 INFO loafly Saved order 5004 for Kabir total=369.00 INR (attempt 1)
+2026-09-12 13:11:14,558 WARNING loafly Save failed for order 5005 (attempt 1/3): orders API unavailable for order 5005
+2026-09-12 13:11:14,960 INFO loafly Saved order 5005 for Reyansh total=243.00 INR (attempt 2)
+2026-09-12 13:11:14,960 INFO loafly Saved order 5006 for Rohan total=1116.00 INR (attempt 1)
+2026-09-12 13:11:14,960 INFO loafly Saved order 5007 for Dev total=369.00 INR (attempt 1)
+2026-09-12 13:11:14,960 INFO loafly Saved order 5008 for Ishita total=639.00 INR (attempt 1)
+2026-09-12 13:11:14,960 INFO loafly Saved order 5009 for Saanvi total=396.00 INR (attempt 1)
+2026-09-12 13:11:14,961 INFO loafly Saved order 5010 for Kabir total=1467.00 INR (attempt 1)
+2026-09-12 13:11:14,961 WARNING loafly Save failed for order 5011 (attempt 1/3): orders API unavailable for order 5011
+2026-09-12 13:11:15,362 INFO loafly Saved order 5011 for Rohan total=189.00 INR (attempt 2)
+2026-09-12 13:11:15,362 INFO loafly Saved order 5012 for Reyansh total=351.00 INR (attempt 1)
+2026-09-12 13:11:15,362 WARNING loafly Save failed for order 5013 (attempt 1/3): orders API unavailable for order 5013
+2026-09-12 13:11:15,762 INFO loafly Saved order 5013 for Saanvi total=135.00 INR (attempt 2)
+2026-09-12 13:11:15,763 WARNING loafly Save failed for order 5014 (attempt 1/3): orders API unavailable for order 5014
+2026-09-12 13:11:16,163 WARNING loafly Save failed for order 5014 (attempt 2/3): orders API unavailable for order 5014
+2026-09-12 13:11:16,579 INFO loafly Saved order 5014 for Aditya total=603.00 INR (attempt 3)
+2026-09-12 13:11:16,579 INFO loafly Saved order 5015 for Naina total=135.00 INR (attempt 1)
+2026-09-12 13:11:16,579 INFO loafly Pipeline done. saved=15 failed=0
+2026-09-12 13:34:19,953 INFO loafly Pipeline start. api_key loaded (length=8)
+2026-09-12 13:34:19,953 INFO loafly Extracted 32 item rows from E:\CB Learning\CBTraining and Assignment\Week2\python_loafly\data\raw_orders.csv
+2026-09-12 13:34:19,953 WARNING loafly Skipping item with missing or bad price: order=5004 item=Chocolate Cake Slice price=''
+2026-09-12 13:34:19,953 WARNING loafly Skipping item with missing or bad price: order=5009 item=Blueberry Muffin price=''
+2026-09-12 13:34:19,954 WARNING loafly Skipping item with missing or bad price: order=5013 item=Cookie Box price=''
+2026-09-12 13:34:19,954 INFO loafly Built 15 orders after skipping bad prices
+2026-09-12 13:34:19,954 INFO loafly Saved order 5001 for Arjun total=297.00 INR (attempt 1)
+2026-09-12 13:34:19,954 WARNING loafly Save failed for order 5002 (attempt 1/3): orders API unavailable for order 5002
+2026-09-12 13:34:20,354 INFO loafly Saved order 5002 for Kabir total=513.00 INR (attempt 2)
+2026-09-12 13:34:20,355 INFO loafly Saved order 5003 for Aarav total=666.00 INR (attempt 1)
+2026-09-12 13:34:20,355 INFO loafly Saved order 5004 for Kabir total=369.00 INR (attempt 1)
+2026-09-12 13:34:20,355 WARNING loafly Save failed for order 5005 (attempt 1/3): orders API unavailable for order 5005
+2026-09-12 13:34:20,761 INFO loafly Saved order 5005 for Reyansh total=243.00 INR (attempt 2)
+2026-09-12 13:34:20,762 INFO loafly Saved order 5006 for Rohan total=1116.00 INR (attempt 1)
+2026-09-12 13:34:20,762 WARNING loafly Save failed for order 5007 (attempt 1/3): orders API unavailable for order 5007
+2026-09-12 13:34:21,163 INFO loafly Saved order 5007 for Dev total=369.00 INR (attempt 2)
+2026-09-12 13:34:21,164 INFO loafly Saved order 5008 for Ishita total=639.00 INR (attempt 1)
+2026-09-12 13:34:21,164 INFO loafly Saved order 5009 for Saanvi total=396.00 INR (attempt 1)
+2026-09-12 13:34:21,164 INFO loafly Saved order 5010 for Kabir total=1467.00 INR (attempt 1)
+2026-09-12 13:34:21,164 INFO loafly Saved order 5011 for Rohan total=189.00 INR (attempt 1)
+2026-09-12 13:34:21,165 INFO loafly Saved order 5012 for Reyansh total=351.00 INR (attempt 1)
+2026-09-12 13:34:21,165 INFO loafly Saved order 5013 for Saanvi total=135.00 INR (attempt 1)
+2026-09-12 13:34:21,165 INFO loafly Saved order 5014 for Aditya total=603.00 INR (attempt 1)
+2026-09-12 13:34:21,165 INFO loafly Saved order 5015 for Naina total=135.00 INR (attempt 1)
+2026-09-12 13:34:21,165 INFO loafly Pipeline done. saved=15 failed=0
